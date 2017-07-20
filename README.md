@@ -27,9 +27,9 @@ Alternatively the theme can be installed globally without using the .xpi files
 
 Other build options to append to `autogen.sh` are
 
-    --disable-light         disable Arc Light Firefox support
-    --disable-darker        disable Arc Darker Firefox support
-    --disable-dark          disable Arc Dark Firefox support
+    --disable-light         disable Arc Light Pale Moon support
+    --disable-darker        disable Arc Darker Pale Moon support
+    --disable-dark          disable Arc Dark Pale Moon support
 
 Uninstall the theme with
 
