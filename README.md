@@ -13,7 +13,7 @@ You will need `autoconf` and `automake` for the following.
 
 Clone the repository
 
-    git clone https://github.com/horst3180/arc-palemoon-theme && cd arc-firefox-theme
+    git clone https://github.com/eurekahyakuya/arc-palemoon-theme && cd arc-firefox-theme
 
 Generate the .xpi files (drag and drop these into your FPale Moon window)
 
