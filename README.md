@@ -15,7 +15,7 @@ Clone the repository
 
     git clone https://github.com/eurekahyakuya/arc-palemoon-theme && cd arc-firefox-theme
 
-Generate the .xpi files (drag and drop these into your FPale Moon window)
+Generate the .xpi files (drag and drop these into your Pale Moon window)
 
     ./autogen.sh --prefix=/usr
     make mkxpi
